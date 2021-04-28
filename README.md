@@ -28,6 +28,11 @@ Wie bereits erwähnt wurde das Programm nach dem MVC-Prinzip implementiert.
 <img src="readmeDocs/controller.png">
 
 
+## Speichern der Daten
+Zum Speichern der Daten wurde eine Datenbank benutzt.
+
+### Room-Database
+
 ## UI
 
 ### GUI
