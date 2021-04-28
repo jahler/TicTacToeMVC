@@ -59,10 +59,13 @@ Wie in diesen Bildern zu sehen ist, kann man ganz normal nach Tic-Tac-Toe-Regeln
 <table>
   <tr>
     <td width="50%">
-      <img src="readmeDocs/resetScore.png">
+      <img src="readmeDocs/resetscore.png">
     </td>
     <td width="50%">
-      <img src="readmeDocs/resetGame.png">
+      <img src="readmeDocs/resetgame.png">
     </td>
   </tr>
 </table>
+Betätigt man den Button „New Game“, so wird das Spielfeld, wie bereits erwähnt, zurückgesetzt.
+Betätigt man wiederum den Button „Reset“, so wird der Spielstand im Spiel und auch in der Datenbank zurückgesetzt.
+
