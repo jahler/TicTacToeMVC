@@ -1,5 +1,5 @@
 # TicTacToeMVC
-Eine Android-TicTacToe-App.
+Eine Android-TicTacToe-App programmiert in Kotlin.
 
 
 ## Aufgabenstellung
