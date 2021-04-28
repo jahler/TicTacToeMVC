@@ -15,6 +15,19 @@ Anschließend habe ich mich der Logik des Tic-Tac-Toe-Spiels gewidmet.</br>
 Für die verschiedenen Buttons habe ich dann die benötigten Listeners angelegt und die dementsprechend folgenden Aktionen ausprogrammiert.</br>
 Am Ende habe ich dann eine Datenbank angelegt, in der die Ergebnisse des Spiels gespeichert werden sollen.
 
+## Aufbau
+Wie bereits erwähnt wurde das Programm nach dem MVC-Prinzip implementiert.
+
+### Model
+<img src="readmeDocs/model.png">
+
+### View
+<img src="readmeDocs/view.png">
+
+### Controller
+<img src="readmeDocs/controller.png">
+
+
 ## UI
 
 ### GUI
@@ -68,3 +81,8 @@ Wie in diesen Bildern zu sehen ist, kann man ganz normal nach Tic-Tac-Toe-Regeln
 </table>
 Betätigt man den Button „New Game“, so wird das Spielfeld, wie bereits erwähnt, zurückgesetzt.
 Betätigt man wiederum den Button „Reset“, so wird der Spielstand im Spiel und auch in der Datenbank zurückgesetzt.
+
+
+## Fazit
+Das Schwierige am Ausimplementieren dieses Tic-Tac-Toe-Spiels war, es im MVC-Prinzip auszuimplementieren. Dafür musste ich mich mit dem Prinzip zunächst zeitaufwendig bekannt machen und nach einem Tutorial Ausschau halten.
+Das Nutzen der Datenbank erzeugte zunächst auch Probleme, die ich dann aber lösen konnte.
