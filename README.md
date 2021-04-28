@@ -31,7 +31,11 @@ Wie bereits erwähnt wurde das Programm nach dem MVC-Prinzip implementiert.
 ## Speichern der Daten
 Zum Speichern der Daten wurde eine Datenbank benutzt.
 
-### Room-Database
+### Database-Entry
+<img src="readmeDocs/databaseentry.png">
+
+### Queries
+<img src="readmeDocs/queries.png">
 
 ## UI
 
