@@ -96,5 +96,6 @@ Betätigt man wiederum den Button „Reset“, so wird der Spielstand im Spiel u
 
 
 ## Fazit
-Das Schwierige am Ausimplementieren dieses Tic-Tac-Toe-Spiels war, es im MVC-Prinzip auszuimplementieren. Dafür musste ich mich mit dem Prinzip zunächst zeitaufwendig bekannt machen und nach einem Tutorial Ausschau halten.
+Das Schwierige an der Implementation dieses Tic-Tac-Toe-Spiels war, es im MVC-Prinzip auszuimplementieren. Dafür musste ich mich mit dem Prinzip zunächst zeitaufwendig besser bekannt machen und nach einem Tutorial Ausschau halten.
 Das Nutzen der Datenbank erzeugte zunächst auch Probleme, die ich dann aber lösen konnte.
+Alles in allem hatte ich (Datenbank ausgenommen) keine größeren Probleme.
