@@ -68,4 +68,3 @@ Wie in diesen Bildern zu sehen ist, kann man ganz normal nach Tic-Tac-Toe-Regeln
 </table>
 Betätigt man den Button „New Game“, so wird das Spielfeld, wie bereits erwähnt, zurückgesetzt.
 Betätigt man wiederum den Button „Reset“, so wird der Spielstand im Spiel und auch in der Datenbank zurückgesetzt.
-
