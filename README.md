@@ -29,7 +29,7 @@ Wie bereits erwähnt wurde das Programm nach dem MVC-Prinzip implementiert.
 
 
 ## Speichern der Daten
-Zum Speichern der Daten wurde eine Datenbank benutzt.
+Zum Speichern der Daten, sprich der Punktestand, wurde eine Datenbank benutzt.
 
 ### Room-Database
 <img src="readmeDocs/roomdatabase.png">
