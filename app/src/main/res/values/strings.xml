@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToeMVC</string>
+    <string name="new_game">New Game!</string>
+    <string name="x_turn">Xs turn!</string>
+    <string name="o_turn">Os turn!</string>
+    <string name="x_win">X wins!</string>
+    <string name="o_win">O wins!</string>
+    <string name="tie_game">Tie!</string>
+    <string name="space"> </string>
+    <string name="reset">Reset</string>
+</resources>
