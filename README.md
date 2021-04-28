@@ -33,3 +33,36 @@ Am Ende habe ich dann eine Datenbank angelegt, in der die Ergebnisse des Spiels 
   </tr>
 </table>
   
+### Game States
+<table>
+  <tr>
+    <td width="20%">
+      <img src="readmeDocs/oturn.png">
+    </td>
+    <td width="20%">
+      <img src="readmeDocs/xturn.png">
+    </td>
+    <td width="20%">
+      <img src="readmeDocs/owin.png">
+    </td>
+    <td width="20%">
+      <img src="readmeDocs/xwin.png">
+    </td>
+    <td width="20%">
+      <img src="readmeDocs/temp.png">
+    </td>
+  </tr>
+</table>
+Wie in diesen Bildern zu sehen ist, kann man ganz normal nach Tic-Tac-Toe-Regeln Tic-Tac-Toe spielen. Wie weiter oben bereits erwähnt, wird über dem Spielfeld angezeigt, wer dran ist bzw. wer gewonnen hat. Wie in den beiden Bildern rechts angezeigt wird, aktualisiert sich der Punktestand im Spiel und auch in der Datenbank.
+
+### Resets
+<table>
+  <tr>
+    <td width="50%">
+      <img src="readmeDocs/resetScore.png">
+    </td>
+    <td width="50%">
+      <img src="readmeDocs/resetGame.png">
+    </td>
+  </tr>
+</table>
